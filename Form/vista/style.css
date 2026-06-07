@@ -1,0 +1,17 @@
+
+body{
+    background-color: #FFEABB; /*fONDO COLOR */
+}
+
+.form-container-custom{
+    background-color: #FAACBF; /*CONTENEDOR MENOS AMARILLO */
+    border-radius: 1rem; /*BORDES REDONDEADOS*/
+    box-shadow: 00.5rem 1rem rgba(0, 0, 0, 0.15); /*Sombra suave  */
+    padding: 2.5rem; /* ESPACIADO INTERNO */
+}
+
+.btn-custom{
+    font-size: 1.1rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 1rem;
+}
